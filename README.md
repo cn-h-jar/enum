@@ -3,6 +3,7 @@
     开发工具：IDEA 
     java架构：spring boot 2.1.7
     源码官网：www.headyou.cn
+    GitHub源码：https://github.com/cn-h-jar/enum.git
 
 
     运行提示：
